@@ -38,6 +38,7 @@
     NSLog(@"dierci");
     
     NSLog(@"第三次");
+    NSLog(@"第四次");
     
     [self.view setBackgroundColor:[UIColor groupTableViewBackgroundColor]];
     
