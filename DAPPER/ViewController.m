@@ -38,8 +38,8 @@
     NSLog(@"dierci");
     
     NSLog(@"第三次");
+    NSLog(@"第四次");
     
-    NSLog(@"第四次回退");
     [self.view setBackgroundColor:[UIColor groupTableViewBackgroundColor]];
     
     connectPeripheral = nil;
