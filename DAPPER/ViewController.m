@@ -35,6 +35,8 @@
 {
     [super viewDidLoad];
     
+    NSLog(@"dierci");
+    
     [self.view setBackgroundColor:[UIColor groupTableViewBackgroundColor]];
     
     connectPeripheral = nil;
