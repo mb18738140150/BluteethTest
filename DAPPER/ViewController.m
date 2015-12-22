@@ -37,6 +37,8 @@
     
     NSLog(@"dierci");
     
+    NSLog(@"第三次");
+    
     [self.view setBackgroundColor:[UIColor groupTableViewBackgroundColor]];
     
     connectPeripheral = nil;
